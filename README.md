@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Wesly Ramalho👋
 
 - 🔭 Em busca de uma oportunidade como dev
-- 🌱 Estudando java/spring boot
+- 🌱 Estudando python
 
 <div align="center">
   <a href="https://github.com/weslyramalho">
